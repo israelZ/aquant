@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+
+.container-art{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.search{
+  width: 50% !important;
+    margin: 20px auto;
+}
